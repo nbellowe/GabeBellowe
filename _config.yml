@@ -7,8 +7,8 @@ description: >
     I am filler text. I am filler text. I am filler text. I am filler text.
     I am filler text. I am filler text. I am filler text. I am filler text.
     I am filler text. I am filler text.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://nbellowe.com/gbellowe" # the base hostname & protocol for your site
+baseurl: "/GabeBellowe" # the subpath of your site, e.g. /blog/
+url: "http://nbellowe.com" # the base hostname & protocol for your site
 images:
     -"p1-3b2fl.png"
     -"p1-3flTH.png"
