@@ -1,4 +1,5 @@
 git checkout master
+jekyll build
 rm -rf ^_site
 mv _site/* .
 git checkout gh-pages
