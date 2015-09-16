@@ -27,6 +27,17 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+.gallery-item img{
+  display: block;
+  width: 50%;
+  height: auto;
+  float: left;
+}
+
+.gallery-item{
+  margin: 3px;
+}
+
 
 
 // Using media queries with like this:

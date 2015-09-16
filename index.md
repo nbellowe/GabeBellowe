@@ -7,11 +7,25 @@ layout: default
 Portfolio
 ===
 
+<div class="gallery">
 {% for img in site.images %}
-<a href="{{site.baseurl}}/public/images/portfolio/{{img}}" data-lightbox="imagegroup" title="Note that a caption can do here....">
-    <img class="test" src="{{site.baseurl}}/public/images/portfolio/{{img}}"/>
+<a class="gallery" href="{{site.baseurl}}/public/images/portfolio/{{img}}" data-lightbox="imagegroup" title="Note that a caption can do here....">
+<div class="gallery-item"><img src="{{site.baseurl}}/public/images/portfolio/{{img}}" width="2%" height="2%"/></div>
 </a>
 {% endfor %}
+</div>
+
+
+<script>
+$(document).ready(function() {
+  $("#gallery").owlCarousel({
+      autoPlay: 3000, //Set AutoPlay to 3 seconds
+      items : 4,
+      itemsDesktop : [1199,3],
+      itemsDesktopSmall : [979,3]
+  });
+});
+</script>
 
 ---
 
