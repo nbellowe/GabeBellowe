@@ -2,4 +2,4 @@
 A portfolio site for Gabe Bellowe, my brother
 
 
-[HERE](nbellowe.com/GabeBellowe)
+[HERE](http://www.nbellowe.com/GabeBellowe)
