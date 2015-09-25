@@ -27,5 +27,5 @@ images:
     - "p1-Stairtest.png"
     - "p1-Various.png"
 
-# Build settings
+# Build settings don't change Gabe
 markdown: kramdown

@@ -15,7 +15,7 @@ Portfolio
 ===
 <div id="carousel">
     {% for img in site.images %}
-        <a class="gallery" href="{{site.baseurl}}/public/img/portfolio/{{img}}" title="Note that a caption can do here....">
+        <a class="gallery" href="{{site.baseurl}}/public/img/portfolio/{{img}}" title="Note that a caption for {{img}} can go here....">
         </a>
     {% endfor %}
 </div>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Some site title</title>
+    <description>This is a section in the config for a description to go. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text. I am filler text.
+</description>
+    <link>http://nbellowe.com/GabeBellowe/</link>
+    <atom:link href="http://nbellowe.com/GabeBellowe/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 15 Sep 2015 17:56:24 -0600</pubDate>
+    <lastBuildDate>Tue, 15 Sep 2015 17:56:24 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+  </channel>
+</rss>
